@@ -8,4 +8,9 @@ The data used for this project has been provided by Bertelsmann Arvato Analytics
 
 Although there were precise guidelines in the project, there were also places where an exact specification is not provided. I also needed to make and justify my own decisions on how to treat the data. These are places where there multiple ways to handle the data since there may be many valid ways to approach an analysis task in real life. One of the most important things here wast to clearly document my approach so that others can understand my decisions.
 
-The unsupervised learning methods incorporated in this project include principal component analysis and K-means clustering.
+# Unsupervised Learning Methods
+1 - principal component analysis   
+2 - K-means clustering   
+
+# Dataset
+Unfortunately, the dataset is not availiable here since it is private to its parent comapany.
