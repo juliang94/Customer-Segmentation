@@ -13,4 +13,4 @@ Although there were precise guidelines in the project, there were also places wh
 2 - K-means clustering   
 
 # Dataset
-Unfortunately, the dataset is not availiable here since it is private to its parent comapany.
+Unfortunately, the dataset is not availiable here since it is private to its parent company.
